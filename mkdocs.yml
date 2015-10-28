@@ -1,0 +1,6 @@
+site_name: Corso su Windows 7
+pages:
+- Home: index.md
+- Intro: intro.md
+#theme_dir: 'amelia'
+theme: flatly

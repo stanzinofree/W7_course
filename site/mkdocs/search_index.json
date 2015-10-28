@@ -1,0 +1,64 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Laboratorio con Windows 7\n\n\n\n\nLaboratorio tecnico sulle novit\u00e0 di Windows 7, prove pratiche di installazione e acquisizione delle prime nozione di sicurezza e di risoluzione ai problemi tipici.\n\n\nInfo\n\n\n\n\n\n\n\n\nVersione Attuale\n\n\n1.0\n\n\n\n\n\n\n\n\n\n\nAutore\n\n\nMiddei Alessandro\n\n\n\n\n\n\nPrimo Rilascio\n\n\nGennaio 2014\n\n\n\n\n\n\nData Ultima Revisione\n\n\nOttobre 2015\n\n\n\n\n\n\n\n\nMen\u00f9\n\n\n\n\nIntro\n - Panoramica OS Microsoft.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#laboratorio-con-windows-7", 
+            "text": "Laboratorio tecnico sulle novit\u00e0 di Windows 7, prove pratiche di installazione e acquisizione delle prime nozione di sicurezza e di risoluzione ai problemi tipici.", 
+            "title": "Laboratorio con Windows 7"
+        }, 
+        {
+            "location": "/#info", 
+            "text": "Versione Attuale  1.0      Autore  Middei Alessandro    Primo Rilascio  Gennaio 2014    Data Ultima Revisione  Ottobre 2015", 
+            "title": "Info"
+        }, 
+        {
+            "location": "/#menu", 
+            "text": "Intro  - Panoramica OS Microsoft.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Men\u00f9"
+        }, 
+        {
+            "location": "/intro/", 
+            "text": "Storia dei prodotti Microsoft\n\n\nLa storia dei prodotti Microsoft parte nel lontano 1985 e passa dalla versione 1.0 e arriva alla versione 3.1 nel 1992, queste prime versioni del sistema operativo danno solamente un'interfaccia grafica che ha bisogno per\u00f2 di un componenti separati per poter gestire gli altri servizi (dischi, tastiere etc etc) di solito il motore sottostante era MS-DOS sempre di Windows.\nDal 1995 in poi nasce Windows come lo conosciamo noi con la versione 95, con architettura ibrida 16/32 bit acquisendo il pieno supporto all'architettura a 32bit con la versione NT 3.1.\nLa pi\u00f9 famosa creatura di Microsoft seppur ormai fuori supporto rimane Windows XP che dal 2001, anno in cui venne lanciata, termina di essere supportata ufficialmente l'8 Aprile 2014 dopo che inizialmente era previsto per il 2012 ma tutt'ora si pu\u00f2 trovare, a rischio dell'utente, installato ancora su molti desktop.\nDopo Windows XP si \u00e8 passati a Windows 7 saltando a pi\u00e8 pari Windows Vista, ritenuto un vero e proprio flop, che se non fosse stato per gli \"errori commerciali\" fatti con Windows XP e quindi la conseguente politica aggressiva di passaggio a Windows 10 gratuitamente si prevedeva sarebbe durato almeno quanto il suo antenato.\nNaturalmente tra Windows 7 e Windows 10 meritano menzione Windows 8 e Windows 8.1.\n\n\nUna rapida carrellata riassuntiva la si pu\u00f2 trovare nella seguente tabella\n\n\n\n\n\n\n\n\nNome Commerciale\n\n\nNome in codice\n\n\nRelease\n\n\nAnno di rilascio\n\n\nArchitettura\n\n\n\n\n\n\n\n\n\n\nWindows 1.0\n\n\n-\n\n\n1.04\n\n\n1985\n\n\n16bit\n\n\n\n\n\n\nWindows 2.0\n\n\n-\n\n\n2.11\n\n\n1987\n\n\n16bit\n\n\n\n\n\n\nWindows 3.0/3.1\n\n\n-\n\n\nCE 3.00\n\n\n1992\n\n\n16bit\n\n\n\n\n\n\nWindows 95\n\n\nChicago\n\n\n4.03\n\n\n1995\n\n\n16/32bit\n\n\n\n\n\n\nWindows 98\n\n\nMemphis\n\n\n4.10 RTM\n\n\n1998\n\n\n16/32bit\n\n\n\n\n\n\nWindows 98 SE\n\n\nMemphis\n\n\n4.10 SE\n\n\n1998\n\n\n16/32bit\n\n\n\n\n\n\nWindows ME\n\n\nMillennium Edition\n\n\n4.90\n\n\n2000\n\n\n16/32bit\n\n\n\n\n\n\nWindows XP\n\n\nExperience\n\n\n5.1.26\n\n\n2001\n\n\n32/64bit*\n\n\n\n\n\n\nWindows Vista\n\n\nLonghorn\n\n\n6.0\n\n\n2007\n\n\n32/64bit\n\n\n\n\n\n\nWindows 7\n\n\nSeven\n\n\n6.1.760\n\n\n2009\n\n\n32/64bit\n\n\n\n\n\n\nWindows 8\n\n\n-\n\n\n6.2.9200\n\n\n2012\n\n\n32/64bit\n\n\n\n\n\n\nWindows 8.1\n\n\n-\n\n\n6.3.9600\n\n\n2013\n\n\n32/64bit\n\n\n\n\n\n\nWindows 10\n\n\n-\n\n\n10.0.10240\n\n\n2015\n\n\n32/64bit\n\n\n\n\n\n\n\n\n\n\nWindows XP ha una versione a parte chiamata XP 64Bit Edition per il supporto a 64bit\n\n\n\n\nFatti e Curiosit\u00e0\n\n\nWindows 95\n\n\nQuesto \u00e8 il primo vero \"ambiente operativo\" nel senso che non si doveva pi\u00f9 passare dal DOS per utilizzare il sistema operativo.\nTra le novit\u00e0 introdotto ci sono:\n\n\n\n\nStart Men\u00f9\n\n\nTaskbar\n\n\nEsplora Risorse(shell grafica)\n\n\nPlug \n Play\n\n\n\n\nWindows 98 e 98SE\n\n\nGrossa evoluzione di Windows 95 anche esso ibrido 16/32bit, tra le novit\u00e0 introdotte:\n\n\n\n\nActive Desktop (uno dei mezzi pi\u00f9 grandi di diffusione virus all'epoca)\n\n\nSupporto ai monitor multipli\n\n\nSupporto al filesystem FAT32\n\n\nSupporto dei DVD\n\n\nPossibilit\u00e0 di modificare l'interfaccia grafica\n\n\nWindows Update\n\n\nMsconfig\n\n\n\n\nWindows ME\n\n\nUno dei grandi flop di Windows insieme a Vista, introdusse molte novit\u00e0 nell'interfaccia grafica e aggiorn\u00f2 diverse versioni di Internet Explorer e Windows Media Player ma introdusse anche un'instabilit\u00e0 tale da portarlo ad essere soprannonimato(Windows ME...Mistake Edition), tra le novit\u00e0 ci sono:\n\n\n\n\nRipristino configurazione di sistema\n\n\nWindows Movie Maker\n\n\nSupporto ai file ZIP\n\n\n\n\nWindows XP\n\n\nIl gioiello di casa MS, un sistema stabile e facile da usare, fu il primo sistema Desktop a basarsi su Windows NT, tra le novit\u00e0 introdotte ci sono:\n\n\n\n\nsupporto al filesystem NTFS\n\n\nWindows Installer migliorato\n\n\nInternet Explorer Aggiornato\n\n\nProcesso di Attivazione\n\n\nStabilit\u00e0\n\n\n\n\nWindows Vista\n\n\nAltro flop di MS che inizialmente stava sviluppando un sistema totalmente nuovo ma si accorse che andava troppo oltre e non avrebbe potuto rispettare i tempi di sviluppo quindi ripart\u00ec da zero utilizzando il kernel 2003 e cre\u00f2 Vista.\nTra le novit\u00e0 pi\u00f9 grandi ci sono:\n\n\n\n\nAero, interfaccia grafica (per la prima volta esterna la kernel)\n\n\nSidebar con i widgets\n\n\nRicerca Veloce, sistema di indicizzazione su tutto il filesystem\n\n\nRestart Manager e Hot Patching pensati per ridurre al minimo i riavvi di sistema a seguito di aggiornamenti\n\n\nCartelle Virtuali ovvero la possibilit\u00e0 di creare una cartella a seguito di una ricerca in modo da non doverla ripetere tutte le volte\n\n\nBackup completo del pc con ripristino selettivo\n\n\nMasterizzazione di file e cartelle su cd integrato in esplora risorse\n\n\nUAC\n\n\nBitLocker \n\n\nWindows Update non pi\u00f9 tramite internet explorer\n\n\nNAP\n\n\n\n\ne poi \nWindows 7\n...", 
+            "title": "Intro"
+        }, 
+        {
+            "location": "/intro/#storia-dei-prodotti-microsoft", 
+            "text": "La storia dei prodotti Microsoft parte nel lontano 1985 e passa dalla versione 1.0 e arriva alla versione 3.1 nel 1992, queste prime versioni del sistema operativo danno solamente un'interfaccia grafica che ha bisogno per\u00f2 di un componenti separati per poter gestire gli altri servizi (dischi, tastiere etc etc) di solito il motore sottostante era MS-DOS sempre di Windows.\nDal 1995 in poi nasce Windows come lo conosciamo noi con la versione 95, con architettura ibrida 16/32 bit acquisendo il pieno supporto all'architettura a 32bit con la versione NT 3.1.\nLa pi\u00f9 famosa creatura di Microsoft seppur ormai fuori supporto rimane Windows XP che dal 2001, anno in cui venne lanciata, termina di essere supportata ufficialmente l'8 Aprile 2014 dopo che inizialmente era previsto per il 2012 ma tutt'ora si pu\u00f2 trovare, a rischio dell'utente, installato ancora su molti desktop.\nDopo Windows XP si \u00e8 passati a Windows 7 saltando a pi\u00e8 pari Windows Vista, ritenuto un vero e proprio flop, che se non fosse stato per gli \"errori commerciali\" fatti con Windows XP e quindi la conseguente politica aggressiva di passaggio a Windows 10 gratuitamente si prevedeva sarebbe durato almeno quanto il suo antenato.\nNaturalmente tra Windows 7 e Windows 10 meritano menzione Windows 8 e Windows 8.1.  Una rapida carrellata riassuntiva la si pu\u00f2 trovare nella seguente tabella     Nome Commerciale  Nome in codice  Release  Anno di rilascio  Architettura      Windows 1.0  -  1.04  1985  16bit    Windows 2.0  -  2.11  1987  16bit    Windows 3.0/3.1  -  CE 3.00  1992  16bit    Windows 95  Chicago  4.03  1995  16/32bit    Windows 98  Memphis  4.10 RTM  1998  16/32bit    Windows 98 SE  Memphis  4.10 SE  1998  16/32bit    Windows ME  Millennium Edition  4.90  2000  16/32bit    Windows XP  Experience  5.1.26  2001  32/64bit*    Windows Vista  Longhorn  6.0  2007  32/64bit    Windows 7  Seven  6.1.760  2009  32/64bit    Windows 8  -  6.2.9200  2012  32/64bit    Windows 8.1  -  6.3.9600  2013  32/64bit    Windows 10  -  10.0.10240  2015  32/64bit      Windows XP ha una versione a parte chiamata XP 64Bit Edition per il supporto a 64bit", 
+            "title": "Storia dei prodotti Microsoft"
+        }, 
+        {
+            "location": "/intro/#fatti-e-curiosita", 
+            "text": "", 
+            "title": "Fatti e Curiosit\u00e0"
+        }, 
+        {
+            "location": "/intro/#windows-95", 
+            "text": "Questo \u00e8 il primo vero \"ambiente operativo\" nel senso che non si doveva pi\u00f9 passare dal DOS per utilizzare il sistema operativo.\nTra le novit\u00e0 introdotto ci sono:   Start Men\u00f9  Taskbar  Esplora Risorse(shell grafica)  Plug   Play", 
+            "title": "Windows 95"
+        }, 
+        {
+            "location": "/intro/#windows-98-e-98se", 
+            "text": "Grossa evoluzione di Windows 95 anche esso ibrido 16/32bit, tra le novit\u00e0 introdotte:   Active Desktop (uno dei mezzi pi\u00f9 grandi di diffusione virus all'epoca)  Supporto ai monitor multipli  Supporto al filesystem FAT32  Supporto dei DVD  Possibilit\u00e0 di modificare l'interfaccia grafica  Windows Update  Msconfig", 
+            "title": "Windows 98 e 98SE"
+        }, 
+        {
+            "location": "/intro/#windows-me", 
+            "text": "Uno dei grandi flop di Windows insieme a Vista, introdusse molte novit\u00e0 nell'interfaccia grafica e aggiorn\u00f2 diverse versioni di Internet Explorer e Windows Media Player ma introdusse anche un'instabilit\u00e0 tale da portarlo ad essere soprannonimato(Windows ME...Mistake Edition), tra le novit\u00e0 ci sono:   Ripristino configurazione di sistema  Windows Movie Maker  Supporto ai file ZIP", 
+            "title": "Windows ME"
+        }, 
+        {
+            "location": "/intro/#windows-xp", 
+            "text": "Il gioiello di casa MS, un sistema stabile e facile da usare, fu il primo sistema Desktop a basarsi su Windows NT, tra le novit\u00e0 introdotte ci sono:   supporto al filesystem NTFS  Windows Installer migliorato  Internet Explorer Aggiornato  Processo di Attivazione  Stabilit\u00e0", 
+            "title": "Windows XP"
+        }, 
+        {
+            "location": "/intro/#windows-vista", 
+            "text": "Altro flop di MS che inizialmente stava sviluppando un sistema totalmente nuovo ma si accorse che andava troppo oltre e non avrebbe potuto rispettare i tempi di sviluppo quindi ripart\u00ec da zero utilizzando il kernel 2003 e cre\u00f2 Vista.\nTra le novit\u00e0 pi\u00f9 grandi ci sono:   Aero, interfaccia grafica (per la prima volta esterna la kernel)  Sidebar con i widgets  Ricerca Veloce, sistema di indicizzazione su tutto il filesystem  Restart Manager e Hot Patching pensati per ridurre al minimo i riavvi di sistema a seguito di aggiornamenti  Cartelle Virtuali ovvero la possibilit\u00e0 di creare una cartella a seguito di una ricerca in modo da non doverla ripetere tutte le volte  Backup completo del pc con ripristino selettivo  Masterizzazione di file e cartelle su cd integrato in esplora risorse  UAC  BitLocker   Windows Update non pi\u00f9 tramite internet explorer  NAP   e poi  Windows 7 ...", 
+            "title": "Windows Vista"
+        }
+    ]
+}
