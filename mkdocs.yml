@@ -1,6 +1,16 @@
 site_name: Corso su Windows 7
 pages:
 - Home: index.md
-- Intro: intro.md
+- Giornata 1:
+    - Intro: intro_d1.md
+    - Storia_MS: win_history.md
+    - Concetti_pre_LAB: pre_installazione.md
+    - LAB: laboratorio_installazione.md
+    - Upgrade_da_XP: upgrade_from_xp.md
+    - Chiusura: riepilogo_d1.md
+- Giornata 2:
+    - Intro: intro_d2.md
+- Laboratorio:
+    - LAB: laboratorio_installazione.md
 #theme_dir: 'amelia'
 theme: flatly

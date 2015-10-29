@@ -4,17 +4,69 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2015-10-28</lastmod>
+     <lastmod>2015-10-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
+        
     <url>
-     <loc>None/intro/</loc>
-     <lastmod>2015-10-28</lastmod>
+     <loc>None/intro_d1/</loc>
+     <lastmod>2015-10-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>None/win_history/</loc>
+     <lastmod>2015-10-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/pre_installazione/</loc>
+     <lastmod>2015-10-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/laboratorio_installazione/</loc>
+     <lastmod>2015-10-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/upgrade_from_xp/</loc>
+     <lastmod>2015-10-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/riepilogo_d1/</loc>
+     <lastmod>2015-10-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/intro_d2/</loc>
+     <lastmod>2015-10-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/laboratorio_installazione/</loc>
+     <lastmod>2015-10-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>

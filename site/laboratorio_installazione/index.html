@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../img/favicon.ico">
+
+	<title>LAB - Corso su Windows 7</title>
+
+        <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../css/font-awesome-4.0.3.css" rel="stylesheet">
+        <link rel="stylesheet" href="../css/highlight.css">
+        <link href="../css/base.css" rel="stylesheet">
+
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+
+        
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <!-- Main title -->
+            <a class="navbar-brand" href="..">Corso su Windows 7</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+            <!-- Main navigation -->
+            <ul class="nav navbar-nav">
+            
+            
+                <li >
+                    <a href="..">Home</a>
+                </li>
+            
+            
+            
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Giornata 1 <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                    
+                        <li >
+                            <a href="../intro_d1/">Intro</a>
+                        </li>
+                    
+                        <li >
+                            <a href="../win_history/">Storia_MS</a>
+                        </li>
+                    
+                        <li >
+                            <a href="../pre_installazione/">Concetti_pre_LAB</a>
+                        </li>
+                    
+                        <li >
+                            <a href="./">LAB</a>
+                        </li>
+                    
+                        <li >
+                            <a href="../upgrade_from_xp/">Upgrade_da_XP</a>
+                        </li>
+                    
+                        <li >
+                            <a href="../riepilogo_d1/">Chiusura</a>
+                        </li>
+                    
+                    </ul>
+                </li>
+            
+            
+            
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Giornata 2 <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                    
+                        <li >
+                            <a href="../intro_d2/">Intro</a>
+                        </li>
+                    
+                    </ul>
+                </li>
+            
+            
+            
+                <li class="dropdown active">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Laboratorio <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                    
+                        <li class="active">
+                            <a href="./">LAB</a>
+                        </li>
+                    
+                    </ul>
+                </li>
+            
+            
+            </ul>
+
+            <!-- Search, Navigation and Repo links -->
+            <ul class="nav navbar-nav navbar-right">
+                <li >
+                    <a rel="next" href="../intro_d2/">
+                        <i class="fa fa-arrow-left"></i> Previous
+                    </a>
+                </li>
+                <li class="disabled">
+                    <a rel="prev" >
+                        Next <i class="fa fa-arrow-right"></i>
+                    </a>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="container">
+            <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+    
+        <li class="main active"><a href="#laboratorio-di-installazione">Laboratorio di installazione</a></li>
+        
+            <li><a href="#creazione-macchina-virtuale">Creazione macchina virtuale</a></li>
+        
+            <li><a href="#preparazione-vhd">Preparazione VHD</a></li>
+        
+            <li><a href="#installazione">Installazione</a></li>
+        
+    
+    </ul>
+</div></div>
+            <div class="col-md-9" role="main">
+
+<h1 id="laboratorio-di-installazione">Laboratorio di installazione</h1>
+<p>Questo laboratorio servirà per acquisire le nozioni di installazione di Windows 7 sfruttando il nuovo strumento di installazione su <a href="../vhd/">VHD</a>.</p>
+<p>Un breve video sulla preparazione della macchina virtuale che ospiterà l'installazione (Io uso vmware ma va bene anche VirtualBox)</p>
+<h3 id="creazione-macchina-virtuale">Creazione macchina virtuale</h3>
+<iframe class="youtube-iframe" src="../video/vm_create.mp4" autoplay=0 style="width: 550px; height: 400px;"></iframe>
+
+<p>Apriamo Vmware, creiamo una nuova macchina virtuale scegliendo di installare noi il sistema (scelta da fare per evitare che vmware effettui alcune operazioni per noi), una volta deciso dove mettere il disco virtuale andiamo a passare al configuratore del cd rom l'imamgine iso di windows 7, aumentiamo la ram a 2 giga per essere più reattivi e iniziamo l'installazione vera e propria.</p>
+<h3 id="preparazione-vhd">Preparazione VHD</h3>
+<iframe src="../video/vhd_create.mp4" autoplay=0 style="width: 550px; height: 400px;"></iframe>
+
+<p>Ora che abbiamo preparato la macchina virtuale andiamo ad iniziare l'installazione e a preparare il nostro vhd su cui installare il sistema quindi una volta avviata la macchina virtuale quando ci si presenta la schermata in questa figura:</p>
+<p><img alt="Schermata di Installazione 0" src="../img/install_schermata_0.png" /></p>
+<p>Premiamo la combinazione di tasti <code>Maiusc+F10</code> (Maiusc è Shift) che ci aprirà una schermata di dos da cui dare i comandi:</p>
+<pre><code>c:
+cd\
+md VHD
+diskpart
+</code></pre>
+<p>Questi comandi non fanno altro che sportarci nel disco C (il prompt si aprirà sulla partizione X ovvero il sistema minimale caricato in ram che serve a far girare l'installer), spostarci nella root del disco C, creare la cartella VHD (o come la si vuol chiamare) e avviare il programma di partizionamento <a href="https://technet.microsoft.com/it-it/library/Cc766465(v=WS.10).aspx">DISKPART</a></p>
+<p>Una volta nel prompt di diskpart diamo in sequenza i comandi per creare il file del nostro disco virtuale, selezionarlo, renderlo attivo e poi uscire</p>
+<pre><code>create vdisk file=C:\VHD\lab.hd type=fixed maximum=30000
+select vdisk file=C:\VHD\lab.hd
+attach vdisk
+exit
+exit
+</code></pre>
+<p>Ora che il prompt si chiude possiamo passare all'installazione del sistema attraverso la voce "Personalizzata"</p>
+<h2 id="installazione">Installazione</h2></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            
+            <center>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</center>
+        </footer>
+
+        <script src="../js/jquery-1.10.2.min.js"></script>
+        <script src="../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../js/highlight.pack.js"></script>
+        <script src="../js/base.js"></script>
+    </body>
+</html>
